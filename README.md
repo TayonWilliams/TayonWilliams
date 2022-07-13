@@ -1,17 +1,17 @@
 ## Hi there 👋, I'm Tayon Williams
 #### Software Developer Developer
 
-To join a team that offers a constructive environment to strengthen my qualities and capability to handle complex situations with the opportunities at hand and build up my experience further in order to work diligently in the future.
+Looking to join a team that offers a constructive environment to strengthen my qualities and capability to handle complex situations with the opportunities at hand and build up my experience further in order to work diligently in the future.
 
-Skills: JS / HTML / CSS / Java / Python / Scala / Spark
+Skills: JS / HTML / CSS / SQL / Python / Scala / Spark / MongoDB / Agile / Hadoop
 
 ![Profile views](https://gpvc.arturio.dev/TayonWilliams) 
 
-- 🔭 I’m currently working on developing awesome Python Projects 
-- 🌱 I’m currently learning Scala 
-- 👯 I’m looking to collaborate on GitHub 
+- 🔭 I’m currently working on developing awesome Data Analytics Projects using Python 
+- 🌱 I’m currently learning Pandas & Pyspark 
+- 👯 I’m looking to collaborate on GitHub or LinkedIn
 - 🤔 I’m looking for help with Advanced Scala  
-- 📫 How to reach me: williams.tay99@gmail.com 
+- 📫 How to reach me: williams.tay99@gmail.com or LinkedIn: https://www.linkedin.com/in/tayon-williams/
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TayonWilliams) 
  
